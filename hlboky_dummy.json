@@ -140,23 +140,24 @@
     }
   },
   {
-    "name": "Afonso Vilarchán",
-    "language": "Galician",
-    "id": "JMCL0CXNXHPL1GBC",
-    "bio": "Fusce eu ultrices elit, vel posuere neque. Morbi ac tellus erat. Nunc tincidunt laoreet laoreet.",
-    "version": 5.21,
+    "name": "Adil Abro",
+    "language": "Sindhi",
+    "id": "LJRIULRNJFCNZJAJ",
+    "bio": "Etiam malesuada blandit erat, nec ultricies leo maximus sed. Fusce congue aliquam elit ut luctus. Etiam malesuada blandit erat, nec ultricies leo maximus sed. Cras dictum dolor lacinia lectus vehicula rutrum. Integer vehicula, arcu sit amet egestas efficitur, orci justo interdum massa, eget ullamcorper risus ligula tristique libero.",
+    "version": 9.32,
     "address": {
-        "country": "Spain",
-        "region": "Galicia",
+        "country": "Pakistan",
+        "province": "Sindh",
         "city/town/village": {
-            "village": "Pontevedra"
+            "town": "Karachi"
         },
-        "street": "789 Rúa da Praza",
-        "zipcode": "36001"
+        "street": "456 Beach View Road",
+        "zipcode": "740001"
     },
     "contact": {
-        "email": "afonso@example.com",
-        "phone": "+34 (123) 456-7890"
+        "email": "adilabro@example.com",
+        "phone": "+92 (123) 456-7890"
+    }
   },
   {
     "name": "Afonso Vilarchán",
@@ -176,6 +177,26 @@
     "contact": {
         "email": "afonso@example.com",
         "phone": "+34 (123) 456-7890"
+    }
+  },
+  {
+    "name": "Duplicate Adeel Solangi",
+    "language": "Sindhi",
+    "id": "DUPLICATE12345",
+    "bio": "This is a duplicate entry for testing purposes.",
+    "version": 6.1,
+    "address": {
+        "country": "United States",
+        "state": "California",
+        "city/town/village": {
+            "village": "Barstow"
+        },
+        "street": "123 Main Street",
+        "zipcode": "90001"
+    },
+    "contact": {
+        "email": "duplicate@example.com",
+        "phone": "+1 (123) 456-7890"
     }
   }
 ]
