@@ -160,7 +160,7 @@
     }
   },
   {
-    "name": "Afonso Vilarchán",
+    "name": "Afonso Vilarchan",
     "language": "Galician",
     "id": "JMCL0CXNXHPL1GBC",
     "bio": "Fusce eu ultrices elit, vel posuere neque. Morbi ac tellus erat. Nunc tincidunt laoreet laoreet.",
@@ -171,7 +171,7 @@
         "city/town/village": {
             "village": "Pontevedra"
         },
-        "street": "789 Rúa da Praza",
+        "street": "789 Rua da Praza",
         "zipcode": "36001"
     },
     "contact": {
