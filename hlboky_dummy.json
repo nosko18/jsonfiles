@@ -8,7 +8,7 @@
     "address": {
         "country": "United States",
         "state": "California",
-        "city/town/village" : {
+        "city" : {
             "village" :  "Barstow"
       },
         "street": "123 Main Street",
@@ -28,7 +28,7 @@
     "address": {
         "country": "United States",
         "state": "New York",
-        "city/town/village": {
+        "city": {
             "town": "Albany"
         },
         "street": "456 Elm Street",
@@ -48,7 +48,7 @@
     "address": {
         "country": "United States",
         "state": "Texas",
-        "city/town/village": {
+        "city": {
             "city": "Austin"
         },
         "street": "789 Oak Avenue",
@@ -68,7 +68,7 @@
     "address": {
         "country": "China",
         "province": "Xinjiang",
-        "city/town/village": {
+        "city": {
             "village": "Kashgar"
         },
         "street": "789 Silk Road",
@@ -88,7 +88,7 @@
     "address": {
         "country": "China",
         "province": "Xinjiang",
-        "city/town/village": {
+        "city": {
             "town": "Turpan"
         },
         "street": "456 Desert Avenue",
@@ -108,7 +108,7 @@
     "address": {
         "country": "China",
         "province": "Xinjiang",
-        "city/town/village": {
+        "city": {
             "city": "Urumqi"
         },
         "street": "123 Silk Street",
@@ -128,7 +128,7 @@
     "address": {
         "country": "China",
         "province": "Xinjiang",
-        "city/town/village": {
+        "city": {
             "village": "Hotan"
         },
         "street": "567 Oasis Lane",
@@ -148,7 +148,7 @@
     "address": {
         "country": "Pakistan",
         "province": "Sindh",
-        "city/town/village": {
+        "city": {
             "town": "Karachi"
         },
         "street": "456 Beach View Road",
@@ -168,7 +168,7 @@
     "address": {
         "country": "Spain",
         "region": "Galicia",
-        "city/town/village": {
+        "city": {
             "village": "Pontevedra"
         },
         "street": "789 Rua da Praza",
@@ -188,7 +188,7 @@
     "address": {
         "country": "United States",
         "state": "California",
-        "city/town/village": {
+        "city": {
             "village": "Barstow"
         },
         "street": "123 Main Street",
