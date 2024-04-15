@@ -1,0 +1,13 @@
+{
+  "deduplication": {
+    "name_deduplication": {
+      "path": "name"
+    },
+    "email_deduplication": {
+      "path": "contact.email"
+    },
+    "state_deduplication": {
+      "path": "address.state"
+    }
+  }
+}
