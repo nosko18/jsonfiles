@@ -51,6 +51,57 @@
         ]
     },
     {
+        "name": "Adeel Solangi",
+        "language": "Sindhi",
+        "id": "V59OF92YF627HFY0",
+        "bio": "Donec lobortis eleifend condimentum. Cras dictum dolor lacinia lectus vehicula rutrum. Maecenas quis nisi nunc. Nam tristique feugiat est vitae mollis. Maecenas quis nisi nunc.",
+        "version": 6.1,
+        "address": {
+            "country": "United States",
+            "state": "California",
+            "city": {
+                "village": "Barstow"
+            },
+            "street": "123 Main Street",
+            "zipcode": "90001"
+        },
+        "contact": {
+            "email": "adeel@example.com",
+            "phone": "+1 (123) 456-7890"
+        },
+        "education": {
+            "degree": "Master's",
+            "field": "Computer Science",
+            "university": "Stanford University",
+            "year": 2020
+        },
+        "work_experience": [
+            {
+                "position": "Software Engineer",
+                "company": "TechCorp",
+                "duration": "2 years"
+            },
+            {
+                "position": "Senior Developer",
+                "company": "Innovatech",
+                "duration": "3 years"
+            }
+        ],
+        "skills": ["Python", "JavaScript", "Machine Learning", "Data Analysis"],
+        "certifications": [
+            {
+                "name": "Certified Data Scientist",
+                "organization": "Data Science Council of America",
+                "year": 2021
+            },
+            {
+                "name": "AWS Certified Solutions Architect",
+                "organization": "Amazon Web Services",
+                "year": 2019
+            }
+        ]
+    },
+    {
         "name": "Afzal Ghaffar",
         "language": "Sindhi",
         "id": "ENTOCR13RSCLZ6KU",
