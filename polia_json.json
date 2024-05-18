@@ -77,9 +77,9 @@
         },
         "work_experience": [
             {
-                "position": "Junior Developer",
-                "company": "WebSolutions",
-                "duration": "1 year"
+                "position": "Data Analyst",
+                "company": "DataCorp",
+                "duration": "2 years"
             },
             {
                 "position": "Data Analyst",
@@ -136,8 +136,8 @@
         "skills": ["R", "Python", "Data Visualization"],
         "certifications": [
             {
-                "name": "Certified Data Professional",
-                "organization": "ICCP",
+                "name": "Chartered Financial Analyst",
+                "organization": "CFA Institute",
                 "year": 2020
             }
         ]
@@ -228,8 +228,8 @@
         "skills": ["CAD", "SolidWorks", "Project Management"],
         "certifications": [
             {
-                "name": "Certified Mechanical Engineer",
-                "organization": "Engineering Council",
+                "name": "Chartered Financial Analyst",
+                "organization": "CFA Institute",
                 "year": 2021
             }
         ]
@@ -323,52 +323,6 @@
                 "name": "Certified Civil Engineer",
                 "organization": "Engineering Institute",
                 "year": 2019
-            }
-        ]
-    },
-    {
-        "name": "Adil Eli",
-        "language": "Uyghur",
-        "id": "6VTI8X6LL0MMPJCD",
-        "bio": "Vivamus id faucibus velit, id posuere leo. Morbi vitae nisi lacinia, laoreet lorem nec, egestas orci. Suspendisse potenti.",
-        "version": 6.49,
-        "address": {
-            "country": "China",
-            "province": "Xinjiang",
-            "city": {
-                "town": "Turpan"
-            },
-            "street": "456 Desert Avenue",
-            "zipcode": "750002"
-        },
-        "contact": {
-            "email": "adil.duplicate@example.com",
-            "phone": "+86 (234) 567-8901"
-        },
-        "education": {
-            "degree": "Master's",
-            "field": "Mechanical Engineering",
-            "university": "Shanghai Jiao Tong University",
-            "year": 2020
-        },
-        "work_experience": [
-            {
-                "position": "Mechanical Engineer",
-                "company": "Industrial Solutions",
-                "duration": "2 years"
-            },
-            {
-                "position": "Senior Mechanical Engineer",
-                "company": "Tech Innovations",
-                "duration": "3 years"
-            }
-        ],
-        "skills": ["CAD", "SolidWorks", "Project Management"],
-        "certifications": [
-            {
-                "name": "Certified Mechanical Engineer",
-                "organization": "Engineering Council",
-                "year": 2021
             }
         ]
     }
