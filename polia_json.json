@@ -8,9 +8,7 @@
         "address": {
             "country": "United States",
             "state": "California",
-            "city": {
-                "village": "Barstow"
-            },
+            "city": "Barstow",
             "street": "123 Main Street",
             "zipcode": "90001"
         },
@@ -59,9 +57,7 @@
         "address": {
             "country": "United States",
             "state": "New York",
-            "city": {
-                "town": "Albany"
-            },
+            "town": "Albany",
             "street": "456 Elm Street",
             "zipcode": "10001"
         },
@@ -105,9 +101,7 @@
         "address": {
             "country": "United States",
             "state": "Texas",
-            "city": {
-                "city": "Austin"
-            },
+            "city": "Austin",
             "street": "789 Oak Avenue",
             "zipcode": "20002"
         },
@@ -151,9 +145,7 @@
         "address": {
             "country": "China",
             "province": "Xinjiang",
-            "city": {
-                "village": "Kashgar"
-            },
+            "village": "Kashgar",
             "street": "789 Silk Road",
             "zipcode": "750001"
         },
@@ -197,9 +189,7 @@
         "address": {
             "country": "China",
             "province": "Xinjiang",
-            "city": {
-                "town": "Turpan"
-            },
+            "town": "Turpan",
             "street": "456 Desert Avenue",
             "zipcode": "750002"
         },
@@ -243,9 +233,7 @@
         "address": {
             "country": "China",
             "province": "Xinjiang",
-            "city": {
-                "city": "Urumqi"
-            },
+            "city": "Urumqi",
             "street": "123 Silk Street",
             "zipcode": "750003"
         },
@@ -289,9 +277,7 @@
         "address": {
             "country": "China",
             "province": "Xinjiang",
-            "city": {
-                "village": "Hotan"
-            },
+            "village": "Hotan",
             "street": "567 Oasis Lane",
             "zipcode": "750004"
         },
